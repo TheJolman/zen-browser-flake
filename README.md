@@ -1,5 +1,7 @@
 # Zen Browser
 
+fork of `https://github.com/MarceColl/zen-browser-flake` with a more recent version  
+
 This is a flake for the Zen browser.
 
 Just add it to your NixOS `flake.nix` or home-manager:
